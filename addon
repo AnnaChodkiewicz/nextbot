@@ -1,0 +1,12 @@
+{
+"title" : "[FNAF] William Afton Nextbot",
+"type" : "npc",
+"tags" : [ "fun", "comic" ],
+"description" : "[Your Description Here]",
+"ignore" :
+[
+"*.psd",
+"*.vcproj",
+"*.svn"
+]
+}
